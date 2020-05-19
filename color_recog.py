@@ -44,8 +44,6 @@ while True:
         break
 
 
-# In[27]:
-
 
 
 
